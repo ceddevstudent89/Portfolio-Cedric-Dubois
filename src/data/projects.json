@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Projet Booki",
+    "imageSrc": "projects/Booki.png",
+    "description": "Il s'agit d'un projet conçu pour apprendre les langues les plus récentes en construisant une application web.",
+    "skills": ["HTML", "CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Projet Ohmyfood",
+    "imageSrc": "projects/ohmyfood.png",
+    "description": "Il s'agit d'un projet conçu pour apprendre les langues les plus récentes en construisant une application web.",
+    "skills": ["HTML", "SASS"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Projet Portfolio",
+    "imageSrc": "projects/sophiebluel.png",
+    "description": "Il s'agit d'un projet conçu pour apprendre les langues les plus récentes en construisant une application web.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Projet Kasa",
+    "imageSrc": "projects/kasa.png",
+    "description": "Il s'agit d'un projet conçu pour apprendre les langues les plus récentes en construisant une application web.",
+    "skills": ["React", "CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

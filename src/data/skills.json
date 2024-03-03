@@ -1,0 +1,34 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "SASS",
+    "imageSrc": "skills/sass.png"
+  },
+  {
+    "title": "TailwindCSS",
+    "imageSrc": "skills/tailwind.png"
+  },
+  {
+    "title": "Javascript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Supabase",
+    "imageSrc": "skills/supabase.svg"
+  }
+]
