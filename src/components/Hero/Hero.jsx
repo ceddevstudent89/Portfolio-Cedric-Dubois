@@ -25,19 +25,28 @@ export default function Hero() {
 
         <ul className={styles.links}>
           <li className={styles.link}>
-            <img src={getImageUrl("contact/emailIcon.png")} alt="Email icon" />
+            <a href="#contact">
+              <img
+                src={getImageUrl("contact/emailIcon.png")}
+                alt="Email icon"
+              />
+            </a>
           </li>
           <li className={styles.link}>
-            <img
-              src={getImageUrl("contact/linkedinIcon.png")}
-              alt="linkedIn icon"
-            />
+            <a href="https://www.linkedin.com/">
+              <img
+                src={getImageUrl("contact/linkedinIcon.png")}
+                alt="linkedIn icon"
+              />
+            </a>
           </li>
           <li className={styles.link}>
-            <img
-              src={getImageUrl("contact/githubIcon.png")}
-              alt="Github icon"
-            />
+            <a href="https://github.com/ceddevstudent89">
+              <img
+                src={getImageUrl("contact/githubIcon.png")}
+                alt="Github icon"
+              />
+            </a>
           </li>
         </ul>
       </div>

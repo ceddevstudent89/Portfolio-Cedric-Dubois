@@ -141,3 +141,14 @@
     background-position-x: 1000px;
   }
 }
+
+@media screen and (max-width: 390px) {
+  .footerContainer .menu li a {
+    font-size: 1.2em;
+    margin: 10px;
+  }
+
+  .footerContainer p {
+    font-size: 0.7em;
+  }
+}

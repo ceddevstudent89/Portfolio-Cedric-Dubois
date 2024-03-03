@@ -94,3 +94,25 @@
     padding-right: 0;
   }
 }
+
+@media screen and (max-width: 390px) {
+  .title {
+    font-size: 28px;
+  }
+  .aboutItem h3 {
+    font-size: 24px;
+  }
+
+  .aboutItem p {
+    font-size: 18px;
+    line-height: 1.4;
+  }
+
+  .aboutItem {
+    background-image: none;
+  }
+
+  .icon {
+    display: none;
+  }
+}

@@ -13,7 +13,11 @@ export default function About() {
         />
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/uiIcon.png")} alt="Cursor icon" />
+            <img
+              src={getImageUrl("about/uiIcon.png")}
+              alt="UI designer icon"
+              className={styles.icon}
+            />
             <div className={styles.aboutItemText}>
               <h3>Intégrateur Web</h3>
               <p>

@@ -71,3 +71,22 @@
     justify-content: center;
   }
 }
+
+@media screen and (max-width: 390px) {
+  .title {
+    font-size: 28px;
+  }
+
+  .skillImageContainer {
+    width: 100px;
+    height: 100px;
+  }
+
+  .skillImageContainer img {
+    width: 55px;
+  }
+
+  .skill h3 {
+    font-size: 18px;
+  }
+}

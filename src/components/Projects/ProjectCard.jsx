@@ -1,42 +1,6 @@
 import styles from "./ProjectCard.module.css";
 import { getImageUrl } from "../../utils";
 
-// export default function ProjectCard({
-//   project: {
-//     title,
-//     imageSrc,
-//     iconHeart,
-//     iconSave,
-//     description,
-//     skills,
-//     demo,
-//     source,
-//   },
-// }) {
-//   return (
-//     <ul className={styles.cardList}>
-//       <li className={styles.card}>
-//         <img
-//           src={getImageUrl(imageSrc)}
-//           alt={`Image du projet ${title}`}
-//           className={styles.clippedImg}
-//         />
-//         <div className={styles.content}>
-//           <p className={styles.cardLocation}>Bali</p>
-//           <div className={styles.actionsContainer}>
-//             <button className={styles.actionBtn}>
-//               <img src={getImageUrl(iconHeart)} alt="like this place" />
-//             </button>
-//             <button className={styles.actionBtn}>
-//               <img src={getImageUrl(iconSave)} alt="save this place" />
-//             </button>
-//           </div>
-//         </div>
-//       </li>
-//     </ul>
-//   );
-// }
-
 export default function ProjectCard({
   project: { title, imageSrc, description, skills, demo, source },
 }) {
