@@ -23,6 +23,16 @@
   gap: 40px;
 }
 
+@media screen and (max-width: 834px) {
+  .container {
+    margin-left: 4%;
+    margin-right: 4%;
+  }
+  .projects {
+    gap: 20px;
+  }
+}
+
 @media screen and (max-width: 390px) {
   .title {
     font-size: 28px;

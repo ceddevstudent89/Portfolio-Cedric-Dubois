@@ -116,7 +116,7 @@ textarea {
   }
 }
 
-@media screen and (max-width: 830px) {
+@media screen and (max-width: 864px) {
   .container {
     padding: 58px 10% 110px;
     flex-direction: column;
